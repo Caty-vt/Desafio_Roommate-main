@@ -1,0 +1,34 @@
+{
+    "roommates": [
+        {
+            "id": "01c0c7",
+            "nombre": "Nayana Taj",
+            "debe": -10000,
+            "recibe": 5000
+        },
+        {
+            "id": "1f8dd5",
+            "nombre": "Kuzey Süleymanoğlu",
+            "debe": -10000,
+            "recibe": 5000
+        },
+        {
+            "id": "ebd31b",
+            "nombre": "Sandra Bates",
+            "debe": -10000,
+            "recibe": 5000
+        },
+        {
+            "id": "4631fa",
+            "nombre": "Vilma Kokko",
+            "debe": 0,
+            "recibe": 0
+        },
+        {
+            "id": "8f0322",
+            "nombre": "Joris Lemaire",
+            "debe": 0,
+            "recibe": 0
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "gastos": [
+        {
+            "id": "9dc906",
+            "roommate": "Nayana Taj",
+            "descripcion": "Articulos de limpieza",
+            "monto": 15000
+        },
+        {
+            "id": "c443f3",
+            "roommate": "Kuzey Süleymanoğlu",
+            "descripcion": "comida",
+            "monto": 15000
+        },
+        {
+            "id": "f9e8fc",
+            "roommate": "Sandra Bates",
+            "descripcion": "Articulos de limpieza",
+            "monto": 15000
+        }
+    ]
+}
